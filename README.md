@@ -1,17 +1,24 @@
 # Sales Data Pipeline
 
 ## Overview
-Built an ETL pipeline using Python and performed data analysis using PySpark.
+This project implements an end-to-end ETL pipeline using Python and performs data processing using PySpark to generate business insights.
 
 ## Features
-- Data extraction from CSV
-- Data cleaning and transformation
-- PySpark processing (filter, groupBy)
-- Business insights generation
+- Data extraction from CSV files
+- Data cleaning and transformation using Python
+- Data processing using PySpark (filter, groupBy, aggregation)
+- Data visualization using bar charts
 
-## Visualization
-- Revenue by Category (Bar Chart)
-- Revenue by Region (Bar Chart)
+## Key Insights
+- Electronics category generated highest revenue
+- South region shows strong performance
+- Fashion category has higher quantity but lower revenue
 
-## Tools
-Python, Pandas, PySpark
+## Project Workflow
+1. Data Extraction from CSV
+2. Data Cleaning and Transformation (Python)
+3. Data Processing (PySpark)
+4. Data Analysis and Visualization
+
+## Tools Used
+Python, Pandas, PySpark, Matplotlib
