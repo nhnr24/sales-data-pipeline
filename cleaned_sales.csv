@@ -1,0 +1,8 @@
+date,product,category,price,quantity,region,revenue
+2024-01-01,Phone,electronics,20000,2,South,40000
+2024-01-02,Laptop,electronics,50000,1,North,50000
+2024-01-03,Shoes,fashion,2000,3,West,6000
+2024-01-04,Watch,fashion,1500,2,South,3000
+2024-01-05,Tablet,electronics,15000,1,East,15000
+2024-01-06,Tshirt,fashion,800,5,West,4000
+2024-01-07,Headphones,electronics,3000,2,South,6000
